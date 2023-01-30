@@ -1,5 +1,5 @@
 {
-  "name": "sql-comment-parse",
+  "name": "sql-comment-parser",
   "version": "1.0.0",
   "description": "Parser for google/sqlcommenter comments",
   "main": "./lib/index.js",
