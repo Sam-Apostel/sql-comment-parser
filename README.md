@@ -1,15 +1,3 @@
-### Add NPM Token
-
-Add your npm token to your GitHub repository secrets as `NPM_TOKEN`.
-
-### Add Codecov integration
-
-Enable the Codecov GitHub App [here](https://github.com/apps/codecov).
-
-**Remove everything from here and above**
-
----
-
 # SQL Comment parser
 
 [![npm package][npm-img]][npm-url]
