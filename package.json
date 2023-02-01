@@ -19,12 +19,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sam-Apostel/sql-comment-parser.git"
+    "url": "git+https://github.com/spatie/sql-comment-parser.git"
   },
   "license": "MIT",
   "author": {
     "name": "Sam Apostel",
-    "email": "sam@apostel.be",
+    "email": "sam@spatie.be",
     "url": "https://github.com/Sam-Apostel"
   },
   "engines": {
@@ -39,9 +39,9 @@
     "javascript"
   ],
   "bugs": {
-    "url": "https://github.com/Sam-Apostel/sql-comment-parser/issues"
+    "url": "https://github.com/spatie/sql-comment-parser/issues"
   },
-  "homepage": "https://github.com/Sam-Apostel/sql-comment-parser#readme",
+  "homepage": "https://github.com/spatie/sql-comment-parser#readme",
   "devDependencies": {
     "@ryansonshine/cz-conventional-changelog": "^3.3.4",
     "@types/jest": "^27.5.2",
